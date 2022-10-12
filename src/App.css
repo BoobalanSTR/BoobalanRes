@@ -39,6 +39,14 @@ a:hover{
 section,footer{
 padding: 60px 0px
 }
+::-webkit-scrollbar{
+  width: 10px;
+  background: lightcoral;
+}
+::-webkit ::-webkit-scrollbar-thumb{
+  border-radius: 2em;
+  background: grey;
+}
 
 
 
