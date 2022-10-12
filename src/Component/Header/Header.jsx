@@ -56,6 +56,7 @@ const Header = () => {
         <div className="navigation d-flex align-items-center justify-content-between">
           <div className="logo">
             <h5>Boobalan</h5>
+            <h4>Yoges</h4>
           </div>
           <div className="nav_menu">
           <ul className="nav_list">
